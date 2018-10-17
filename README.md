@@ -1,2 +1,3 @@
 # TicTacToe
-TicTacToe against the computer, runs in the cmd.
+Run in the cmd and play against the ai.
+
